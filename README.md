@@ -313,3 +313,10 @@ public class MainActivity extends YouTubeBaseActivity implements YouTubePlayer.O
         super.onActivityResult(requestCode, resultCode, data);
     }
 ```
+
+- run app để kiểm tra
+<img src="https://github.com/hienqp/Ngay046-ConsoleCloudGoogle-YoutubeAPI/blob/main/29_run.png"> <br/>
+
+> Lưu ý: ở máy ảo để có thể sử dụng các dịch vụ của Google, thì máy ảo đó cần cài đặt Google Play Service
+
+___
